@@ -61,6 +61,7 @@ Pixels in output: 8648743 of 8648743
 ### 
 <img src="art-source/IMG_7889.JPG?raw=true" title="asd" width="200" />
 <img src="art-source/IMG_7889.png?raw=true" title="asd" width="200" />
+
 ```sh
 Extracted colors:
 (255, 219, 69) :  21.81% (418710)
@@ -85,13 +86,13 @@ Extracted colors:
 (132, 145, 249):   0.00% (1)
 
 Pixels in output: 1920000 of 1920000
-
 ```
 
 
 ### 
 <img src="art-source/IMG_0841.JPG?raw=true" title="asd" width="200" />
 <img src="art-source/IMG_0841.png?raw=true" title="asd" width="200" />
+
 ```sh
 Extracted colors:
 (56, 47, 48)   :  36.64% (3184427)
@@ -115,6 +116,7 @@ Pixels in output: 8691228 of 8691228
 ### 
 <img src="art-source/IMG_7882.JPG?raw=true" title="asd" width="200" />
 <img src="art-source/IMG_7882.png?raw=true" title="asd" width="200" />
+
 ```sh
 Extracted colors:
 (206, 213, 205):  55.47% (1065086)
@@ -136,6 +138,7 @@ Pixels in output: 1920000 of 1920000
 ### 
 <img src="art-source/IMG_7887.JPG?raw=true" title="asd" width="200" />
 <img src="art-source/IMG_7887.png?raw=true" title="asd" width="200" />
+
 ```sh
 Extracted colors:
 (106, 116, 108):  61.60% (1182763)
@@ -154,6 +157,7 @@ Pixels in output: 1920000 of 1920000
 ### 
 <img src="art-source/IMG_7879.JPG?raw=true" title="asd" width="200" />
 <img src="art-source/IMG_7879.png?raw=true" title="asd" width="200" />
+
 ```sh
 Extracted colors:
 (99, 84, 81)   :  45.62% (875879)
@@ -173,6 +177,7 @@ Pixels in output: 1920000 of 1920000
 ### 
 <img src="art-source/IMG_7884.JPG?raw=true" title="asd" width="200" />
 <img src="art-source/IMG_7884.png?raw=true" title="asd" width="200" />
+
 ```sh
 Extracted colors:
 (55, 44, 50)   :  68.22% (1309778)
@@ -186,19 +191,20 @@ Extracted colors:
 ### 
 <img src="art-source/IMG_3729.JPG?raw=true" title="asd" width="200" />
 <img src="art-source/IMG_3729.png?raw=true" title="asd" width="200" />
+
 ```sh
 Extracted colors:
 (202, 192, 180):  55.39% (4831188)
 (44, 41, 36)   :  44.61% (3890739)
 
 Pixels in output: 8721927 of 8721927
-
 ```
 
 
 ### 
 <img src="art-source/IMG_2351.JPG?raw=true" title="asd" width="200" />
 <img src="art-source/IMG_2351.png?raw=true" title="asd" width="200" />
+
 ```sh
 Extracted colors:
 (204, 197, 181):  67.34% (6237789)
@@ -208,8 +214,9 @@ Extracted colors:
 (131, 79, 57)  :   0.03% (2809)
 
 Pixels in output: 9263296 of 9263296
-
 ```
 
 
+
+# THANK YOU!!
 
